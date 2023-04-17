@@ -1,0 +1,9 @@
+@startuml ユースケース図
+left to right direction
+rectangle 販売管理システム{
+usecase 注文商品をシステムで確認 
+usecase 出荷状況をシステムに登録
+}
+販売管理者-->注文商品をシステムで確認
+販売管理者-->出荷状況をシステムに登録
+@enduml
