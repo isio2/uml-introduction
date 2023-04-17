@@ -2,7 +2,7 @@
 rectangle ホテル宿泊システム{
 usecase キャンペーン
 usecase ログイン
-usecase (<u>予約する</u>\nキャンペーン中\nキャンペーン外) as input
+usecase (<u>予約する</u>\nキャンペーン中) as input
 }
 利用者-->input
 (キャンペーン)  .> input: <<extend>>

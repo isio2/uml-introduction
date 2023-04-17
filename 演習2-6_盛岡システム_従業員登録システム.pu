@@ -1,17 +1,19 @@
 @startuml ユースケース図
+left to right direction
+actor 社員 #AA0000;line:Pink;line.bold;
+actor 人事担当 #AA0000;line:Pink;line.bold;
 rectangle 従業員登録システム{
 usecase 社員情報を登録
 usecase 社員情報を参照
-usecase 変更届
 usecase 社員情報を変更
 usecase 社員情報を修正
 }
 人事担当->社員情報を登録
 人事担当-->社員情報を修正
-社員-->社員情報を参照
+社員---->社員情報を参照
 社員-->変更届
 社員-->社員情報を変更
 社員情報を変更.>変更届:<include>
-社員情報を変更.>社員情報を修正:<<incldo>>
+社員情報を変更.>社員情報を修正:<<include>>
 変更届-->人事担当
 @enduml
