@@ -4,5 +4,5 @@ usecase ログイン
 usecase 予約
 }
 利用者-->予約
-予約 .>ログイン:<<includo>>
+予約 .>ログイン:<<include>>
 @enduml
