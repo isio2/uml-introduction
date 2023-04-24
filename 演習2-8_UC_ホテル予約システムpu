@@ -1,19 +1,15 @@
 @startuml ユースケース図
     left to right direction
     rectangle ホテル管理システム{
-    usecase (<u>空室状況</u>\n入力)as inpot
-    usecase (<u>予約</u>\n集計\nキャンペーン) as input
+    usecase (<u>空室状況確認</u>\n空室状況入力)as inpot
+    usecase (<u>予約</u>\n集計) as input
     usecase (<u>ログイン</u>\n会員登録)as inpet
     usecase キャンペーン
     }
+    input-.>キャンペーン
     利用者-->inpot
     利用者-->input
-    ホテル従業員->inpot
+    ホテル従業員-->inpot
     ホテル管理者-->input
-    利用者-->inpet
-    ホテル従業員---->inpet
-    ホテル管理者-->inpet
-    inpet-->input
-    input-->inpot
-
+    input.>inpet
 @enduml
