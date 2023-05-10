@@ -1,0 +1,20 @@
+@startuml
+' left to right direction
+class "重要顧客" as empty_car {
+}
+class "注文" as rental {
+- 注文日:int
+- 数量:int
+}
+class "顧客" as car {
+- 氏名:String
+- 住所:String
+}
+class "商品" as customer {
+- 商品名: String
+- 型式:String
+}
+rental "*" --left-- "1" car
+car <|-down-ri- empty_car
+rental "*" -ri- "1" customer
+@endumls

@@ -1,0 +1,17 @@
+@startuml
+left to right direction
+class 車 {
+- 車種:String
+- メーカー:String
+}
+class タイヤ {
+- タイヤ種類:String
+- 大きさ:int
+- 料金:int
+---
++ 取り付ける():void
+}
+hide 車 circle
+hide タイヤ circle
+車--"4"タイヤ
+@enduml
