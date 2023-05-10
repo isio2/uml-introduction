@@ -15,6 +15,6 @@ class "商品" as customer {
 - 型式:String
 }
 rental "*" --left-- "1" car
-car <|-down-ri- empty_car
+car <|-down- empty_car
 rental "*" -ri- "1" customer
 @endumls
