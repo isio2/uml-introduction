@@ -1,0 +1,12 @@
+@startuml ラーメン屋さんでの注文
+hide footbox
+participant "user:予約画面" as clerk
+participant ":user" as cooker
+activate clerk
+clerk --> cooker:ログイン()
+activate cooker
+cooker -> cooker:確認操作()
+activate cooker
+deactivate cooker
+deactivate clerk
+@enduml
