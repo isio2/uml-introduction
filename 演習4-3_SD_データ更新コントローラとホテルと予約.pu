@@ -1,0 +1,14 @@
+@startuml データ更新コントローラー
+hide footbox
+participant ":controller" as c
+participant ":hotel" as h
+activate c
+c -> h:予約の操作()
+activate h
+create ":yoyaku" as y
+h -->> y :<<create>>
+h -> h:予約登録の操作()
+activate h
+deactivate c
+deactivate h
+@enduml
