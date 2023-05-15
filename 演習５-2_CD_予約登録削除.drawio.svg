@@ -1,0 +1,45 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="714px" height="472px" viewBox="-0.5 -0.5 714 472" content="&lt;mxfile&gt;&lt;diagram id=&quot;IusT7N45JbzrCQJmSujO&quot; name=&quot;ページ1&quot;&gt;1VdLc5swEP41vmZAMg8fHSdtD+2MZ3xoe1RABc0IxAjZ4P76Cmt5COyGpE7iXmztx+qx37fahQXeZPVnSYr0m4gpXyAnrhf4YYGQ6wb6twGOAOCVARLJYoB6YMd+UwAdQPcspqXlqITgihU2GIk8p5GyMCKlqGy3X4LbuxYkoRNgFxE+Rb+zWKUGDVHQ418oS9J2Z9eH+DLSOkMkZUpiUQ0g/LjAGymEMqOs3lDecNfyYuZ9uvC0O5ikuZozYWkmHAjfQ2xwLnVsg6Wxjh3MXOT67z5VGdeWq4fGvfG5eAKASrGXEXjBLorIhIIX7qLXWUNFRpU8ahdJOVHsYK9OQL+k8+tD1AOI8nzEaBLxOlJCTsLWyhTNcJ9x44DvD1QqprPgK3mifCtKppjItcuTUEpkA4c1Z0nzQInCZkvsFWc53XR56XQUNnNp/XcSp/TABN8zM+A+BZBdVZ+cGKB0kJe+8+904ucTqEqZoruCnMSvdEGwOTlP2hVIaVkAUpAzZQWdYQWjK9Di3S4tXSq0vKB35MW/XV6WY17Cebyg5RV4CW6Xl8C1ecEz8wVdI19cd0aDyuN109S1FXFSliyymaE1Uz+a8Z3jh2D/bGqvttvnDzUU45NxHBhbKpk+NpVWtX5pw7vQ3QYUemcobLHZTRB22Aqmz9Ip6IajzA5GypiTwqzh28JooYulo13INPTJQieVu7DnCT/t068W3rlbrWzh3dB/J+G9jxS+u6rjkvZS4S/WxjcQfsYbxXPCz5Xqo3TxnFFJHbeQubp43kiX1dvpMudT4T/XJRjdl6X3Sl2C0bvn0rmWLtrsvw6Ne/+JjR//AA==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 15 60 L 15 123.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 15 128.88 L 11.5 121.88 L 15 123.63 L 18.5 121.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="15" cy="7.5" rx="7.499999999999999" ry="7.499999999999999" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 15 15 L 15 40 M 15 20 L 0 20 M 15 20 L 30 20 M 15 40 L 0 60 M 15 40 L 30 60" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)scale(0.9999999999999999)">
+            <switch>
+                <foreignObject pointer-events="none" width="101%" height="101%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 67px; margin-left: 15px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Actor
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="15" y="79" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Actor
+                </text>
+            </switch>
+        </g>
+        <rect x="5" y="130" width="20" height="320" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="165" y="150" width="20" height="320" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="365" y="210" width="20" height="240" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="645" y="250" width="20" height="220" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 26.36 149.52 L 158.63 149.98" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 163.88 150 L 156.87 153.47 L 158.63 149.98 L 156.89 146.47 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 184.96 209.52 L 358.63 209.98" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 363.88 210 L 356.87 213.48 L 358.63 209.98 L 356.89 206.48 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 435 270 L 480.5 224.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 484.21 220.79 L 481.73 228.22 L 480.5 224.5 L 476.78 223.27 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 655 380 L 700.5 334.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 704.21 330.79 L 701.73 338.22 L 700.5 334.5 L 696.78 333.27 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
