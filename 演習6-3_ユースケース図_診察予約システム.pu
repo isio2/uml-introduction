@@ -1,0 +1,16 @@
+@startuml ユースケース図
+left to right direction
+actor 患者
+actor 看護師
+rectangle ○○医院診察予約{
+usecase メニューをみる
+usecase 予約と確認をする
+usecase 名前か電話番号を入力してあなたの順番をみる
+usecase 今の順番を確認する
+}
+患者 -- メニューをみる
+患者 -- 予約と確認をする
+患者 -- 名前か電話番号を入力してあなたの順番をみる
+患者 -- 今の順番を確認する
+今の順番を確認する -- 看護師
+
